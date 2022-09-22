@@ -1,8 +1,5 @@
 #teste de mesa questão 2
 
-from cgi import print_form
-
-
 ano = 2022
 
 if ano < 2022:
